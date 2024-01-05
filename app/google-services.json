@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523517364542",
+    "project_id": "android-iot-4557d",
+    "storage_bucket": "android-iot-4557d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523517364542:android:3c5d20d733b756f8bec46f",
+        "android_client_info": {
+          "package_name": "com.example.iotlamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1772bJqCA8MJh02gW7UGzT99DICXYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523517364542:android:4e4b291fe2d7b20fbec46f",
+        "android_client_info": {
+          "package_name": "com.example.iotlamplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1772bJqCA8MJh02gW7UGzT99DICXYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
